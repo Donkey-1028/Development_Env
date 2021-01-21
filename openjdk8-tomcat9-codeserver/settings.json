@@ -1,0 +1,4 @@
+{
+    "terminal.integrated.shell.linux": "/bin/bash",
+    "java.home": "/usr/lib/jvm/java-8-openjdk-amd64/"
+}
